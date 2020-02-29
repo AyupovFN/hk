@@ -1,0 +1,53 @@
+
+body {
+  font-family: "Verdana", Geneva, sans-serif;
+  font-size: 16px;
+  color: #bdc3c7;
+  background:#000000;
+}
+
+h3 {
+  color: #7f8c8d;
+}
+
+.logo {
+  text-align: right;
+}
+
+.figure {
+  display: block; /* Блочный элемент */
+  margin:  10px 10px ;
+  text-align: center; /* Выравнивание по центру */
+  font-style: italic;
+  font-size: 12px;
+
+}
+
+.img {
+  border: 1px solid #ea0008; /* Параметры рамки */
+}
+
+.img_gun {
+  font-size: 12px;
+  text-align: center;
+  font-style: italic;
+}
+
+.all_page{
+  font-weight: normal;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.variant li, h3 {
+  list-style: square;
+  margin: 20px;
+  font-family:  Georgia, serif;
+  font-style: italic;
+}
+
+.head {
+  color: #ea0008;
+  font-style: oblique;
+}
+
